@@ -5,7 +5,7 @@
     },
     "repositories": [
         {
-            "dataDir": "./EMBOLD_DATA",,
+            "dataDir": "./EMBOLD_DATA",
             "repository": {
                 "uid": "f9bb7441d3530bb2237e97fb2cc8eb00",
                 "projectName": "1ruby",
